@@ -1,2 +1,2 @@
 # Taller-ROS
-Archivos para el taller de ROS de RAS UTEC
+Archivos para el taller de ROS de IEEE RAS UTEC
